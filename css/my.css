@@ -1,0 +1,321 @@
+@font-face {
+	font-family: 'icomoon';
+	src:url('../fonts/icomoon.eot?-h7i0b6');
+	src:url('../fonts/icomoon.eot?#iefix-h7i0b6') format('embedded-opentype'),
+		url('../fonts/icomoon.ttf?-h7i0b6') format('truetype'),
+		url('../fonts/icomoon.woff?-h7i0b6') format('woff'),
+		url('../fonts/icomoon.svg?-h7i0b6#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-globe:before {
+	content: "\e600";
+}
+.icon-check:before {
+	content: "\e601";
+}
+
+@font-face {
+    font-family: 'OpenSans';
+    src: url('../web-fonts/open-sans/opensanshebrew-extrabold-webfont.eot');
+    src: url('../web-fonts/open-sans/opensanshebrew-extrabold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../web-fonts/open-sans/opensanshebrew-extrabold-webfont.woff') format('woff'),
+         url('../web-fonts/open-sans/opensanshebrew-extrabold-webfont.ttf') format('truetype'),
+         url('../web-fonts/open-sans/opensanshebrew-extrabold-webfont.svg#OpenSans') format('svg');
+    font-weight: bolder;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'OpenSans';
+    src: url('../web-fonts/open-sans/opensanshebrew-bolditalic-webfont.eot');
+    src: url('../web-fonts/open-sans/opensanshebrew-bolditalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../web-fonts/open-sans/opensanshebrew-bolditalic-webfont.woff') format('woff'),
+         url('../web-fonts/open-sans/opensanshebrew-bolditalic-webfont.ttf') format('truetype'),
+         url('../web-fonts/open-sans/opensanshebrew-bolditalic-webfont.svg#OpenSans') format('svg');
+    font-weight: bold;
+    font-style: italic;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'OpenSans';
+    src: url('../web-fonts/open-sans/opensanshebrew-bold-webfont.eot');
+    src: url('../web-fonts/open-sans/opensanshebrew-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../web-fonts/open-sans/opensanshebrew-bold-webfont.woff') format('woff'),
+         url('../web-fonts/open-sans/opensanshebrew-bold-webfont.ttf') format('truetype'),
+         url('../web-fonts/open-sans/opensanshebrew-bold-webfont.svg#OpenSans') format('svg');
+    font-weight: bold;
+    font-style: normal;
+
+}
+
+
+
+@font-face {
+    font-family: 'frank_ruehl_clm';
+    src: url('../web-fonts/frank/frankruehlclm-bold-webfont.eot');
+    src: url('../web-fonts/frank/frankruehlclm-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../web-fonts/frank/frankruehlclm-bold-webfont.woff') format('woff'),
+         url('../web-fonts/frank/frankruehlclm-bold-webfont.ttf') format('truetype'),
+         url('../web-fonts/frank/frankruehlclm-bold-webfont.svg#frank_ruehl_clmbold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'frank_ruehl_clm';
+    src: url('../web-fonts/frank/frankruehlclm-boldoblique-webfont.eot');
+    src: url('../web-fonts/frank/frankruehlclm-boldoblique-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../web-fonts/frank/frankruehlclm-boldoblique-webfont.woff') format('woff'),
+         url('../web-fonts/frank/frankruehlclm-boldoblique-webfont.ttf') format('truetype'),
+         url('../web-fonts/frank/frankruehlclm-boldoblique-webfont.svg#frank_ruehl_clmboldoblique') format('svg');
+    font-weight: bold;
+    font-style: italic;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'frank_ruehl_clm';
+    src: url('../web-fonts/frank/frankruehlclm-medium-webfont.eot');
+    src: url('../web-fonts/frank/frankruehlclm-medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../web-fonts/frank/frankruehlclm-medium-webfont.woff') format('woff'),
+         url('../web-fonts/frank/frankruehlclm-medium-webfont.ttf') format('truetype'),
+         url('../web-fonts/frank/frankruehlclm-medium-webfont.svg#frank_ruehl_clmmedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'frank_ruehl_clm';
+    src: url('../web-fonts/frank/frankruehlclm-mediumoblique-webfont.eot');
+    src: url('../web-fonts/frank/frankruehlclm-mediumoblique-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../web-fonts/frank/frankruehlclm-mediumoblique-webfont.woff') format('woff'),
+         url('../web-fonts/frank/frankruehlclm-mediumoblique-webfont.ttf') format('truetype'),
+         url('../web-fonts/frank/frankruehlclm-mediumoblique-webfont.svg#frank_ruehl_clmmediumoblique') format('svg');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'simple_clm';
+    src: url('../web-fonts/simpleclm/simpleclm-bold-webfont.eot');
+    src: url('../web-fonts/simpleclm/simpleclm-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../web-fonts/simpleclm/simpleclm-bold-webfont.woff') format('woff'),
+         url('../web-fonts/simpleclm/simpleclm-bold-webfont.ttf') format('truetype'),
+         url('../web-fonts/simpleclm/simpleclm-bold-webfont.svg#simple_clmbold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'simple_clm';
+    src: url('../web-fonts/simpleclm/simpleclm-boldoblique-webfont.eot');
+    src: url('../web-fonts/simpleclm/simpleclm-boldoblique-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../web-fonts/simpleclm/simpleclm-boldoblique-webfont.woff') format('woff'),
+         url('../web-fonts/simpleclm/simpleclm-boldoblique-webfont.ttf') format('truetype'),
+         url('../web-fonts/simpleclm/simpleclm-boldoblique-webfont.svg#simple_clmboldoblique') format('svg');
+    font-weight: bold;
+    font-style: italic;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'simple_clm';
+    src: url('../web-fonts/simpleclm/simpleclm-medium-webfont.eot');
+    src: url('../web-fonts/simpleclm/simpleclm-medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../web-fonts/simpleclm/simpleclm-medium-webfont.woff') format('woff'),
+         url('../web-fonts/simpleclm/simpleclm-medium-webfont.ttf') format('truetype'),
+         url('../web-fonts/simpleclm/simpleclm-medium-webfont.svg#simple_clmmedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'simple_clm';
+    src: url('../web-fonts/simpleclm/simpleclm-mediumoblique-webfont.eot');
+    src: url('../web-fonts/simpleclm/simpleclm-mediumoblique-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../web-fonts/simpleclm/simpleclm-mediumoblique-webfont.woff') format('woff'),
+         url('../web-fonts/simpleclm/simpleclm-mediumoblique-webfont.ttf') format('truetype'),
+         url('../web-fonts/simpleclm/simpleclm-mediumoblique-webfont.svg#simple_clmmediumoblique') format('svg');
+    font-weight: normal;
+    font-style: italic;
+
+}
+.w-logo {
+	height: 4rem;
+	width: 16rem;
+	margin-top: 1rem;
+	margin-bottom: 2rem;
+
+}
+
+.i-logo {
+	background-image: url(../img/0.svg);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 5rem;
+	height: 5rem;
+	position: absolute;
+ 	top: 50%;
+ 	left: 50%;
+ 	
+ 	margin-left: -2.5rem;
+   	margin-top: -2.5rem;
+}
+.c-logo {
+	display: block;
+	background-image: url(../img/3.svg);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 12rem;
+	height: 18rem;
+	position: absolute;
+ 	top: 50%;
+ 	left: 50%;
+ 	
+ 	margin-left: -6rem;
+   	margin-top: -9rem;
+}
+
+.c-img {
+	width: 9rem;
+	height: 11rem;
+}
+
+.nav-label:before {
+	display: none;
+}
+
+.lang {
+	font-family: 'icomoon';
+	position: absolute;
+	top:-35px;
+	right: -35px;
+	font-size: 1rem;
+
+}
+span .icon-erth::before {
+	margin-top: 4px;
+}
+
+
+.project-subtitle {
+	font-size: 1.5rem;
+	margin-top: -0.6em;
+	margin-bottom: 1em;
+	font-family: simple_clm;
+}
+
+.simple-t {
+	font-family: simple_clm;
+}
+
+.frank {
+	font-family: 'frank_ruehl_clm';
+}
+
+.open-t {
+	font-family: 'OpenSans';
+}
+
+.list-rtl {
+	list-style-image: url(../img/check.svg);
+	list-style-position: outside;
+	text-align: right;
+	margin-right: 2.26rem;
+	margin-top: 1rem;
+}
+
+.list-head {
+	margin-right: -1.26rem;
+	list-style: none;
+}
+.mobile-header {
+	display: none;
+}
+
+#btn-contact-open {
+	right: o;
+	}
+@media  (max-width: 1025px)  {
+
+
+  	.mobile-none {
+  	display: none;
+  }
+
+.header{
+  	position: absolute;
+  	top:-60px;
+  	left:0;
+  	width: 100%;
+
+  }
+
+.lang{
+  	position: relative;
+	float: left;
+	margin-left: 5px;
+	top:0px;
+	right:0px;
+	margin-top: 5px;
+
+  }
+  #btn-contact-open {
+  	position: relative;
+  	float: right;
+  	margin-right: 5px;
+  	margin-top: 5px;
+  }
+  .logo {
+  	margin-top: 60px;
+  	margin-bottom: -18px;
+  }
+  
+}
